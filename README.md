@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CheeseConsoomer
-- 🌱 I’m currently learning pyhton, C# and HTML
+- 👋 Hi, I’m @Nat
+- 🌱 I'm learning CSS and JS 
 - 💞️ I’m looking to collaborate on anything with pyhton C# and HTML
 - 📫 How to reach through my email: nat.j.sweetland@gmail.com
 - 😄 Pronouns: he/him
